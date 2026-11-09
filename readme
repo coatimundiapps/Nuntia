@@ -1,0 +1,29 @@
+Nuntia
+
+What is Nuntia?
+Nuntia is a lightweight, modern mail client built with Python + GTK3, designed to feel at home on Deepin. It focuses on speed, a clean interface, and the features you actually use every day.
+
+✨ Key features
+IMAP/SMTP support for any provider (Gmail, iCloud, Outlook, custom domains…)
+
+Conversation threading – group emails by thread
+
+Labels with colors and per-label counters
+
+Automatic filters – move, label, or mark emails as read based on rules
+
+Phishing detection – built-in analysis of suspicious emails
+
+Per-account signatures
+
+Multi-account with a unified inbox
+
+Spam filter – block or allow senders
+
+8 languages: 🇫🇷 FR, 🇬🇧 EN, 🇩🇪 DE, 🇪🇸 ES, 🇯🇵 JA, 🇵🇹 PT, 🇹🇭 TH, 🇨🇳 ZH
+
+Dark mode following the system theme
+
+Native Deepin integration – follows your accent color
+
+website : https://coatimundiapps.github.io/
