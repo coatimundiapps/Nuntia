@@ -2,7 +2,7 @@ Nuntia
 https://coatimundiapps.github.io/nuntia.html
 
 What is Nuntia?
-Nuntia is a lightweight, modern mail client built with Python + GTK3, designed to feel at home on Deepin. It focuses on speed, a clean interface, and the features you actually use every day.
+Nuntia is a lightweight, modern mail client built with Python + GTK3, designed to feel at home on Deepin linux. It focuses on speed, a clean interface, and the features you actually use every day.
 
 ✨ Key features
 IMAP/SMTP support for any provider (Gmail, iCloud, Outlook, custom domains…)
@@ -28,3 +28,6 @@ Dark mode following the system theme
 Native Deepin integration – follows your accent color
 
 website : https://coatimundiapps.github.io/
+
+
+*** INFORMATION : Application designed specifically for Deepin Linux. Use on other Linux distributions is not guaranteed. ***
